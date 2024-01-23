@@ -1,0 +1,22 @@
+body{
+    background-color:beige;
+}
+
+h1{
+    text-align: center;
+    color:blueviolet;
+    font-size:xx-large;
+}
+h2{
+    text-align: center;
+    color:brown;
+    font-size: large;
+}
+p{
+    text-align: center;
+    color:crimson;
+    font: size 12px;;
+}
+img{
+    width: 100px;
+}
